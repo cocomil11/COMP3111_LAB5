@@ -3,7 +3,7 @@ name: List Files in Repository
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   list-files:
     runs-on: ubuntu-latest
