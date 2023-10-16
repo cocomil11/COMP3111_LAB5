@@ -1,5 +1,3 @@
-# comp3111_lab7
+# comp3111_lab5
 
-This repository is an example that demonstrates how to write JUnit tests with Eclipse. It is intended for practice and demonstration purposes only. For your assignment, you will need to work on your team project.
-
-
+Demo repository for lab5
